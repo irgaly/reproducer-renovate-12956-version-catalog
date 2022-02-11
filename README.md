@@ -10,6 +10,7 @@ A Reproducer Project for
 * Enable Version Catalog `enableFeaturePreview("VERSION_CATALOGS")` in settings.gradle
 * Add Version Catalog gradle/libs.versions.toml
 * Declare `compose` version, and use it.
+* Add Github Renovate App, and configure with default renovate.json.
 
 ---
 
