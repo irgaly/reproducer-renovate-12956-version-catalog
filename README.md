@@ -43,7 +43,7 @@ compose-ui-tooling = { module = "androidx.compose.ui:ui-tooling-preview", versio
 
 ## Renovate Log
 
-Renovate log is here.
+Here is Renovate log.
 
 https://github.com/irgaly/reproducer-renovate-12956-version-catalog/issues/6
 
