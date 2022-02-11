@@ -31,7 +31,7 @@ compose-ui-tooling = { module = "androidx.compose.ui:ui-tooling-preview", versio
 * Renovate makes 2 PRs for `androidx.compose.ui` and `androidx.compose.material` groups.
     * `androidx.compose.ui` -> https://github.com/irgaly/reproducer-renovate-12956-version-catalog/pull/2
     * `andoridx.compose.material` -> https://github.com/irgaly/reproducer-renovate-12956-version-catalog/pull/5
-* They have same changes `compose = "1.1.0" in gradle/libs.versions.toml
+* They have same changes `compose = "1.1.0"` in gradle/libs.versions.toml
 
 ![image](https://user-images.githubusercontent.com/1311446/153553978-07ebc109-c2a8-4f78-92fd-bcdcfba0d26b.png)
 
