@@ -1,5 +1,7 @@
 # Reproducer: Renovate & Version Catalog versions section
 
+> Resolved from Renovate version 32.41.4 by https://github.com/renovatebot/renovate/pull/15190
+
 A Reproducer Project for 
 
 * https://github.com/renovatebot/renovate/issues/12956 Renovate creates multiple PRs for common versions in gradle version catalog #12956
